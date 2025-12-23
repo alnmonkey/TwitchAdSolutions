@@ -4,6 +4,13 @@
 
 If you're using the uBlock Origin version of the script you need to make sure that it's set up correctly based on the instructions in the README. Check the script is active by opening your browsers developer console, refreshing a stream, and searching for `hookWorkerFetch (vaft)` / `hookWorkerFetch (video-swap-new)`. If you don't see this, then the script isn't being injected and you need to find the reason why.
 
+If you're using Chrome with a Manifest V3 based userscript manager (e.g. Tampermonkey) you need to manually enable user script permissions in the extension settings:
+
+- Go to `chrome://extensions`
+- Click the `Details` button on the extension
+- Where it says `Allow user scripts` make sure it's enabled
+
+
 ## Streams sometimes appear offline when ads occur
 
 This needs to be fixed but currently the exact cause is unknown. https://github.com/pixeltris/TwitchAdSolutions/issues/477
