@@ -1,3 +1,9 @@
+## Twitch Turbo
+
+- `Twitch Turbo` - https://www.twitch.tv/turbo
+  - For $11.99/Month you can go ad-free on every stream without having to use any third party extensions or scripts
+  - This is the only Twitch ad blocking solution which contributes to keeping the website alive
+
 ## Web browser extensions
 
 - `TTV LOL PRO` - [chrome](https://chrome.google.com/webstore/detail/ttv-lol-pro/bpaoeijjlplfjbagceilcgbkcdjbomjd) / [firefox](https://addons.mozilla.org/addon/ttv-lol-pro/) / [code](https://github.com/younesaassila/ttv-lol-pro)
@@ -28,7 +34,7 @@
   - Attempts to get a clean stream as fast as it can.
   - If it fails to get a clean stream it removes ad segments (no playback until ad-free stream is found).
 - `video-swap-new` - [userscript](https://github.com/pixeltris/TwitchAdSolutions/raw/master/video-swap-new/video-swap-new.user.js)
-  - Attempts to get a clean stream (often low resolution).
+  - Attempts to get a clean stream (low resolution).
   - If it fails to get a clean stream it removes ad segments (no playback until ad-free stream is found).
   - Not recommended, `vaft` is a better script.
 - `strip` - [userscript](https://github.com/pixeltris/TwitchAdSolutions/raw/master/strip/strip.js)
