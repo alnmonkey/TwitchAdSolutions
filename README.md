@@ -57,6 +57,8 @@ Userscript managers:
 - https://www.tampermonkey.net/
 - https://apps.apple.com/us/app/userscripts/id1463298887
 
+*Greasemonkey doesn't work with the scripts.*
+
 ## Issues with the scripts
 
 If the script doesn't work or you're experiencing freezing / buffering issues see [issues.md](issues.md)
